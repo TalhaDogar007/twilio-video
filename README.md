@@ -8,10 +8,6 @@ Learn how to build this entire application in the blog post [Build a Twilio Vide
 
 To run the application you will need a [Twilio account](https://www.twilio.com/try-twilio) and Node.js and npm installed. Start by cloning or downloading the repo to your machine.
 
-```bash
-git clone https://github.com/philnash/twilio-video-react-hooks.git
-cd twilio-video-react-hooks
-```
 
 Install the dependencies:
 
